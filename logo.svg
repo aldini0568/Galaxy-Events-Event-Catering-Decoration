@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 180">
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#b98224"/>
+      <stop offset=".45" stop-color="#f6d37a"/>
+      <stop offset="1" stop-color="#b98224"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#gold)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 68 C92 50 60 43 26 50 C58 65 77 79 95 96"/>
+    <path d="M300 68 C328 50 360 43 394 50 C362 65 343 79 325 96"/>
+    <path d="M104 43 L125 18 L151 39 L181 10 L210 39 L239 10 L269 39 L295 18 L316 43"/>
+  </g>
+  <text x="210" y="116" text-anchor="middle" font-family="Georgia,serif" font-size="82" font-weight="700" fill="#f6d37a" letter-spacing="8">GC</text>
+  <text x="210" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff" letter-spacing="7">GALAXY EVENTS</text>
+</svg>
